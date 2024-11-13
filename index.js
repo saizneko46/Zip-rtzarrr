@@ -33,7 +33,7 @@ function extractZip(zipFilePath, outputDir) {
 }
 
 // Path file ZIP dan output direktori (direktori saat ini)
-const zipFilePath = path.join(__dirname, 'p.zip'); // Ganti dengan nama file ZIP
+const zipFilePath = path.join(__dirname, 'Xander v2.zip'); // Ganti dengan nama file ZIP
 const outputDir = __dirname; // Ekstrak ke direktori saat ini
 
 extractZip(zipFilePath, outputDir);
